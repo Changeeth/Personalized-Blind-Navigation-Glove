@@ -66,6 +66,11 @@ It strengthens skills in sensor integration, signal processing, hardware-softwar
 5. Optional Telegram alerts notify guardians in case of emergencies.
 
 ---
+## View LinkedIn Post
+Check out the detailed project post on LinkedIn:  
+[🔗 View on LinkedIn]([https://www.linkedin.com/posts/your-link-here](https://www.linkedin.com/posts/changeethan-sujinthan-7069a7327_engineeringdesign-ni-labview-activity-7350440654209970176-AA37?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFKM-TYBrXIQFI68jIaOuLNjWe2w_v7oyLg))
+
+---
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
