@@ -68,7 +68,7 @@ It strengthens skills in sensor integration, signal processing, hardware-softwar
 
 ## LinkedIn Post
 Check out the detailed project post on LinkedIn:  
-[🔗 View LinkedIn Post]([https://www.linkedin.com/posts/e00920d69fd126f1e9a7578b2d2f2d6df111c28ec6b6be5c16ea012680e4d25d](https://www.linkedin.com/posts/changeethan-sujinthan-7069a7327_engineeringdesign-ni-labview-activity-7350440654209970176-AA37?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFKM-TYBrXIQFI68jIaOuLNjWe2w_v7oyLg))
+[🔗 View LinkedIn Post](https://www.linkedin.com/posts/changeethan-sujinthan-7069a7327_engineeringdesign-ni-labview-activity-7350440654209970176-AA37/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFKM-TYBrXIQFI68jIaOuLNjWe2w_v7oyLg)
 
 ---
 
