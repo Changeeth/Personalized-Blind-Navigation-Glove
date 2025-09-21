@@ -67,22 +67,7 @@ It strengthens skills in sensor integration, signal processing, hardware-softwar
 
 ---
 
-## Team
-- **Changeethan Sujinthan**  
-- **Oneli Bandaranayake**  
-- **Ruwan Charuka**
-
----
-
-## Acknowledgements
-Special thanks to the team for collaboration and all resources that helped bring this project to life.  
-
----
-
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ---
-
-## Tags
-`#EngineeringDesign` `#NI` `#LabVIEW` `#AssistiveTechnology` `#SensorFusion` `#HumanCentricDesign` `#IoT` `#BlindNavigation` `#DataAcquisition` `#FlexSensor` `#UltrasonicSensor` `#LM35` `#GestureControl` `#EmbeddedSystems` `#InnovationInEngineering`
