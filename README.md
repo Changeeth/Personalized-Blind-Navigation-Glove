@@ -6,13 +6,11 @@ A smart wearable glove designed to assist visually impaired individuals by combi
 
 ## Table of Contents
 - [Overview](#overview)
-- [LinkedIn Post](#linkedin-post)
 - [Features](#features)
 - [Hardware](#hardware)
 - [Software](#software)
 - [How It Works](#how-it-works)
-- [Team](#team)
-- [Acknowledgements](#acknowledgements)
+- [LinkedIn Post](#linkedin-post)
 - [License](#license)
 
 ---
@@ -21,12 +19,6 @@ A smart wearable glove designed to assist visually impaired individuals by combi
 This project is an innovative assistive technology solution aimed at improving navigation and safety for visually impaired users. The glove integrates multiple sensors, real-time data acquisition, and intelligent control logic to deliver smooth, intuitive feedback to the user.
 
 It strengthens skills in sensor integration, signal processing, hardware-software integration, and user-centered design, demonstrating the real-world impact of inclusive engineering.
-
----
-
-## LinkedIn Post
-Check out the detailed project post on LinkedIn:  
-[🔗 View LinkedIn Post](https://www.linkedin.com/posts/e00920d69fd126f1e9a7578b2d2f2d6df111c28ec6b6be5c16ea012680e4d25d)
 
 ---
 
@@ -71,6 +63,12 @@ Check out the detailed project post on LinkedIn:
 3. Vibrations and buzzer alerts are triggered based on threshold conditions.
 4. Gesture-based commands allow the user to interact with the glove without physical switches.
 5. Optional Telegram alerts notify guardians in case of emergencies.
+
+---
+
+## LinkedIn Post
+Check out the detailed project post on LinkedIn:  
+[🔗 View LinkedIn Post]([https://www.linkedin.com/posts/e00920d69fd126f1e9a7578b2d2f2d6df111c28ec6b6be5c16ea012680e4d25d](https://www.linkedin.com/posts/changeethan-sujinthan-7069a7327_engineeringdesign-ni-labview-activity-7350440654209970176-AA37?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFKM-TYBrXIQFI68jIaOuLNjWe2w_v7oyLg))
 
 ---
 
