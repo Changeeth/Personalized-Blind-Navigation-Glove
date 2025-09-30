@@ -94,7 +94,7 @@ It strengthens skills in sensor integration, signal processing, hardware-softwar
 
 ## Project Demonstration
 🎥 Watch the live demonstration of the **Personalized Blind Navigation Glove** on YouTube:  
-[▶️ Watch on YouTube](https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://www.youtube.com/shorts/XiqoMna9mds)
+[▶️ Watch on YouTube](https://www.youtube.com/shorts/XiqoMna9mds)
 
 ---
 
