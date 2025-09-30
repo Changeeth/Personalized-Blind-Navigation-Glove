@@ -10,6 +10,7 @@ A smart wearable glove designed to assist visually impaired individuals by combi
 - [Hardware](#hardware)
 - [Software](#software)
 - [How It Works](#how-it-works)
+- [Simulation & Photos](#simulation--photos)
 - [LinkedIn Post](#linkedin-post)
 - [License](#license)
 
@@ -44,25 +45,42 @@ It strengthens skills in sensor integration, signal processing, hardware-softwar
 ---
 
 ## Hardware
-- **NI DAQ Card** for real-time data acquisition
-- **Ultrasonic Sensor** for obstacle detection
-- **LM35 Sensor** for body temperature monitoring
-- **Flex Sensors** for gesture detection
+- **NI DAQ Card** for real-time data acquisition  
+- **Ultrasonic Sensor** for obstacle detection  
+- **LM35 Sensor** for body temperature monitoring  
+- **Flex Sensors** for gesture detection  
 
 ---
 
 ## Software
-- **LabVIEW** for signal processing, control logic, and UI design
-- Modular logic implemented with timing control, thresholding, and state management
+- **LabVIEW** for signal processing, control logic, and UI design  
+- Modular logic implemented with timing control, thresholding, and state management  
 
 ---
 
 ## How It Works
-1. Sensors continuously monitor distance, body temperature, and finger gestures.
-2. Data is processed in LabVIEW with real-time control logic.
-3. Vibrations and buzzer alerts are triggered based on threshold conditions.
-4. Gesture-based commands allow the user to interact with the glove without physical switches.
-5. Optional Telegram alerts notify guardians in case of emergencies.
+1. Sensors continuously monitor distance, body temperature, and finger gestures.  
+2. Data is processed in LabVIEW with real-time control logic.  
+3. Vibrations and buzzer alerts are triggered based on threshold conditions.  
+4. Gesture-based commands allow the user to interact with the glove without physical switches.  
+5. Optional Telegram alerts notify guardians in case of emergencies.  
+
+---
+
+## Simulation & Photos
+
+### 🖥️ Simulation Screenshots
+<p align="center">
+  <img src="images/simulation1.png" alt="Simulation 1" width="45%"/>
+  <img src="images/simulation2.png" alt="Simulation 2" width="45%"/>
+</p>
+
+### 📸 Real Project Photos
+<p align="center">
+  <img src="images/project1.jpg" alt="Project Photo 1" width="45%"/>
+  <img src="images/project2.jpg" alt="Project Photo 2" width="45%"/>
+  <img src="images/project3.jpg" alt="Project Photo 3" width="45%"/>
+</p>
 
 ---
 
