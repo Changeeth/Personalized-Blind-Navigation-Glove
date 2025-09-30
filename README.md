@@ -71,15 +71,22 @@ It strengthens skills in sensor integration, signal processing, hardware-softwar
 
 ### 🖥️ Simulation Screenshots
 <p align="center">
-  <img src="images/simulation1.png" alt="Simulation 1" width="45%"/>
-  <img src="images/simulation2.png" alt="Simulation 2" width="45%"/>
+  <img src="images/img01.jpeg" alt="Simulation 1" width="45%"/>
+  <img src="images/img02.jpeg" alt="Simulation 2" width="45%"/>
+</p>
+<p align="center">
+  <img src="images/img03.jpeg" alt="Simulation 3" width="45%"/>
+  <img src="images/img04.jpeg" alt="Simulation 4" width="45%"/>
+</p>
+<p align="center">
+  <img src="images/img05.jpeg" alt="Simulation 5" width="45%"/>
+  <img src="images/img06.jpeg" alt="Simulation 6" width="45%"/>
 </p>
 
 ### 📸 Real Project Photos
 <p align="center">
   <img src="images/project1.jpg" alt="Project Photo 1" width="45%"/>
   <img src="images/project2.jpg" alt="Project Photo 2" width="45%"/>
-  <img src="images/project3.jpg" alt="Project Photo 3" width="45%"/>
 </p>
 
 ---
