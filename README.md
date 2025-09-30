@@ -11,6 +11,7 @@ A smart wearable glove designed to assist visually impaired individuals by combi
 - [Software](#software)
 - [How It Works](#how-it-works)
 - [Simulation & Photos](#simulation--photos)
+- [Project Demonstration](#project-demonstration)
 - [LinkedIn Post](#linkedin-post)
 - [License](#license)
 
@@ -88,6 +89,12 @@ It strengthens skills in sensor integration, signal processing, hardware-softwar
   <img src="images/img07.jpeg" alt="Project Photo 1" width="45%"/>
   <img src="images/img08.jpeg" alt="Project Photo 2" width="45%"/>
 </p>
+
+---
+
+## Project Demonstration
+🎥 Watch the live demonstration of the **Personalized Blind Navigation Glove** on YouTube:  
+[▶️ Watch on YouTube](https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://www.youtube.com/shorts/XiqoMna9mds)
 
 ---
 
