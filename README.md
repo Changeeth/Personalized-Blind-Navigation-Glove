@@ -85,8 +85,8 @@ It strengthens skills in sensor integration, signal processing, hardware-softwar
 
 ### 📸 Real Project Photos
 <p align="center">
-  <img src="images/project1.jpg" alt="Project Photo 1" width="45%"/>
-  <img src="images/project2.jpg" alt="Project Photo 2" width="45%"/>
+  <img src="images/img07.jpeg" alt="Project Photo 1" width="45%"/>
+  <img src="images/img08.jpeg" alt="Project Photo 2" width="45%"/>
 </p>
 
 ---
